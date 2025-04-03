@@ -1,0 +1,27 @@
+h1 {
+    color: green;
+    para titulo
+}
+
+h2 {
+    color: green;
+    para titulo 
+}
+
+os dois a cima estão especificados 
+
+#economy h2{
+    color: gold;
+}
+
+especifiquei outra cor ao meu segundo titulo
+
+.creation-date {
+    color: cornsilk;
+}
+espeficiquei uma cor clara para a legenda 
+
+*{
+    color: red;
+    selecionei toda a pagina e dei a cor vermelha a ela 
+}
